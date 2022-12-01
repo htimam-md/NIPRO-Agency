@@ -1,2 +1,2 @@
-# NIPRO-Agency
-Nipro Agency
+# Nipro-Agency
+Nipro Agency Responsive
